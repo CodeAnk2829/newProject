@@ -1,0 +1,16 @@
+.container-fluid{
+  width: 40%;
+}
+.thanks-page{
+  font-size: 3rem;
+  color: #646FD4;
+  background-color: #caceef;
+  text-align: center;
+  padding: 7% 5%;
+  
+}
+@media (max-width: 900px){
+  .thanks-page{
+    font-size: 2rem;
+  }
+}
